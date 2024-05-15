@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malaf\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\malaf\\my project\\assets\\scripts\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\malaf\\my project\\assets\\scripts\\player\\charactermovementinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\charactermovementinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\malaf\\My project\\assets\\scripts\\buildwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fighter.cs",
+              "DocumentMoniker": "C:\\Users\\malaf\\My project\\Assets\\scripts\\fighter.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\fighter.cs",
+              "ToolTip": "C:\\Users\\malaf\\My project\\Assets\\scripts\\fighter.cs",
+              "RelativeToolTip": "Assets\\scripts\\fighter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:59:21.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterMovementInput.cs",
+              "DocumentMoniker": "C:\\Users\\malaf\\My project\\Assets\\scripts\\Player\\CharacterMovementInput.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player\\CharacterMovementInput.cs",
+              "ToolTip": "C:\\Users\\malaf\\My project\\Assets\\scripts\\Player\\CharacterMovementInput.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player\\CharacterMovementInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:55:34.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuildWindow.cs",
+              "DocumentMoniker": "C:\\Users\\malaf\\My project\\Assets\\scripts\\BuildWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BuildWindow.cs",
+              "ToolTip": "C:\\Users\\malaf\\My project\\Assets\\scripts\\BuildWindow.cs",
+              "RelativeToolTip": "Assets\\scripts\\BuildWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:00:54.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

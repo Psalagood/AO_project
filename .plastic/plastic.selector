@@ -1,0 +1,4 @@
+repository "My project@MilleniumClass@cloud"
+  path "/"
+    br "/main"
+    co "/main"
